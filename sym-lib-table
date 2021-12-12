@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "Cypress_MCU")(type "KiCad")(uri "${ABIES_SYMBOL_DIR}/Cypress_MCU.kicad_sym")(options "")(descr ""))
+  (lib (name "Memory")(type "KiCad")(uri "${ABIES_SYMBOL_DIR}/Memory.kicad_sym")(options "")(descr ""))
+)
