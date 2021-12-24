@@ -1,3 +1,5 @@
 *-backups
 *.kicad_prl
 .vscode
+fp-info-cache
+
